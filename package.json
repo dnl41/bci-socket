@@ -16,6 +16,7 @@
     "express-session": "^1.15.3",
     "jade": "^1.11.0",
     "mongoose": "^4.9.5",
+    "openbci": "^1.5.2",
     "openbci-sdk": "^0.3.8",
     "redis": "^2.7.1",
     "serve-favicon": "^2.4.3",
