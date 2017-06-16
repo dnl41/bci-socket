@@ -1,0 +1,19 @@
+
+.... Instalar homebrew
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+brew update //actualiza el manejador 
+
+.... Instalar redis 
+brew install redis
+
+.... Instalar mongodb 
+brew install mongodb 
+sudo mkdir -p /data/db 
+// cambiar permisos de  /data/db permitir lectura y escritura de todos
+// icono de configuracion --> nodaplicar a los elementos incluidos
+
+
+
+
